@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rotermid.github.io/sitemap
+Sitemap: https://rotermid.github.io/app/sitemap
+Sitemap: https://rotermid.github.io/assets/sitemap
+Sitemap: https://rotermid.github.io/css/sitemap
+Sitemap: https://rotermid.github.io/includes/sitemap
+Sitemap: https://rotermid.github.io/item/sitemap
+Sitemap: https://rotermid.github.io/src/sitemap
